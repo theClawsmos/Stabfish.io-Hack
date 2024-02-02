@@ -1,4 +1,4 @@
-- Download tampermonkey in chrome/edge
+- Download tampermonkey in chrome/edge using this link: [Link](https://link-url-here.org](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo))
 - Go to extensions
 - Click tampermonkey
 - Click 'create new script'
